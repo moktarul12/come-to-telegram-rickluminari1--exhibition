@@ -1,0 +1,12 @@
+node_modules
+**/node_modules
+.git
+.vercel
+.env.local
+client/dist
+server/data
+*.log
+.DS_Store
+yarn.lock
+agent-transcripts
+**/._*
